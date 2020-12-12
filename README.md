@@ -5,9 +5,13 @@ Home: http://deon.drivendata.org/
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/deon-feedstock/blob/master/LICENSE.txt)
 
 Summary: A command line tool to easily add an ethics checklist to your data science projects.
+
+Development: https://github.com/drivendataorg/deon
+
+Documentation: http://deon.drivendata.org/
 
 deon is a command line tool that allows you to easily add an ethics
 checklist to your data science projects. The conversation about ethics in
